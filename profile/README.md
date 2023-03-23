@@ -6,19 +6,34 @@
     <br>
 </div>
 <div>
-    <h2>OUR PROJECTS</h2>
+    <h2>Check out our projects!</h2>
     <ul>
-        <li> <a href="www.github.com/VampireCrab-Games" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop and mobile platforms
+        <li> <a href="" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop and mobile platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process </ul>
         </li>
         <br>
-        <li> <a href="www.github.com/VampireCrab-Games" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
+        <li> <a href="" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
             <ul>  </ul>
         </li>
-        <br>
     </ul>
     
 </div>
+<div align="left">
+    <h2>Meet our members!</h2>
+    <ul>
+        <li><a href="" target="_blank"> Miroslav Maksimović </a></li>
+        <li><a href="" target="_blank"> Tatjana Knežević </a></li>
+        <li><a href="" target="_blank"> Mihailo Bogdanović </a></li>
+    </ul>
+    <br>
+</div>
+
+
+
+
+
+
+
 
 
 
