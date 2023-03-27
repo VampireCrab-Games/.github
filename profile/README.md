@@ -27,7 +27,6 @@
     <ul>
         <li><a href="" target="_blank"> Miroslav Maksimović </a></li>
         <li><a href="" target="_blank"> Mihailo Bogdanović </a></li>
-        <li><a href="" target="_blank"> Aleksandar Šarbajić </a></li>
         <li><a href="" target="_blank"> Tatjana Knežević </a></li>
     </ul>
     <br>
