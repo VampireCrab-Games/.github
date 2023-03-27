@@ -8,8 +8,12 @@
 <div>
     <h2>Check out our projects!</h2>
     <ul>
-        <li> <a href="" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop and mobile platforms
+        <li> <a href="" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop and mobile platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process </ul>
+        </li>
+        <br>
+        <li> <a href="" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - [WIP] 2D grid-based horror dungeon crawler, for mobile platforms
+            <ul> Adventurer descends deep into dark and dangerous dungeons; Searching for adventure, treasure and glory! </ul>
         </li>
         <br>
         <li> <a href="" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
@@ -22,8 +26,9 @@
     <h2>Meet our members!</h2>
     <ul>
         <li><a href="" target="_blank"> Miroslav Maksimović </a></li>
-        <li><a href="" target="_blank"> Tatjana Knežević </a></li>
         <li><a href="" target="_blank"> Mihailo Bogdanović </a></li>
+        <li><a href="" target="_blank"> Aleksandar Šarbajić </a></li>
+        <li><a href="" target="_blank"> Tatjana Knežević </a></li>
     </ul>
     <br>
 </div>
