@@ -37,9 +37,9 @@
 <div align="left">
     <h2>Meet our members!</h2>
     <ul>
-        <li><a href="https://www.github.com/Mikros1999" target="_blank"> Miroslav Maksimović </a></li>
-        <li><a href="https://www.github.com/crknuchu" target="_blank"> Mihailo Bogdanović </a></li>
-        <li><a href="https://www.github.com/TatjanaKnezevic" target="_blank"> Tatjana Knežević </a></li>
+        <li><a href="https://www.github.com/Mikros1999" target="_blank" rel="noopener noreferrer"> Miroslav Maksimović </a></li>
+        <li><a href="https://www.github.com/crknuchu" target="_blank" rel="noopener noreferrer"> Mihailo Bogdanović </a></li>
+        <li><a href="https://www.github.com/TatjanaKnezevic" target="_blank" rel="noopener noreferrer"> Tatjana Knežević </a></li>
     </ul>
     <br>
 </div>
