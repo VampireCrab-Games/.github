@@ -16,11 +16,11 @@
     </ul> -->
     <p> Work In Progress </p>
     <ul>
-        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop platforms
+        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
         <br>
-        <li> <a href="" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - [WIP] 2D grid-based horror dungeon crawler, for mobile platforms
+        <li> <a href="" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - 2D grid-based horror dungeon crawler, for mobile platforms
             <ul> Adventurer descends deep into dark and dangerous dungeons, searching for adventure, treasure and glory! </ul>
         </li>
         <br>
