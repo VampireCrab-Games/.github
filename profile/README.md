@@ -7,18 +7,30 @@
 </div>
 <div>
     <h2>Check out our projects!</h2>
+<!--     <p> Released </p>
     <ul>
-        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop and mobile platforms
-            <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process </ul>
+        <li> <a href="" target="_blank">  </a>
+            <ul>  </ul>
+        </li>
+        <br>
+    </ul> -->
+    <p> Work In Progress </p>
+    <ul>
+        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop platforms
+            <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
         <br>
         <li> <a href="" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - [WIP] 2D grid-based horror dungeon crawler, for mobile platforms
-            <ul> Adventurer descends deep into dark and dangerous dungeons; Searching for adventure, treasure and glory! </ul>
+            <ul> Adventurer descends deep into dark and dangerous dungeons, searching for adventure, treasure and glory! </ul>
         </li>
         <br>
+    </ul>
+    <p> Backlog </p>
+    <ul>
         <li> <a href="https://github.com/VampireCrab-Games/Chess-2D" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
-            <ul>  </ul>
+            <ul> MVP done, needs improvement and new featueres</ul>
         </li>
+        <br>
     </ul>
     
 </div>
