@@ -8,7 +8,7 @@
 <div>
     <h2>Check out our projects!</h2>
     <ul>
-        <li> <a href="" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop and mobile platforms
+        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - [WIP] 2D platformer, for desktop and mobile platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process </ul>
         </li>
         <br>
@@ -16,7 +16,7 @@
             <ul> Adventurer descends deep into dark and dangerous dungeons; Searching for adventure, treasure and glory! </ul>
         </li>
         <br>
-        <li> <a href="" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
+        <li> <a href="https://github.com/VampireCrab-Games/Chess-2D" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
             <ul>  </ul>
         </li>
     </ul>
@@ -25,30 +25,9 @@
 <div align="left">
     <h2>Meet our members!</h2>
     <ul>
-        <li><a href="" target="_blank"> Miroslav Maksimović </a></li>
-        <li><a href="" target="_blank"> Mihailo Bogdanović </a></li>
-        <li><a href="" target="_blank"> Tatjana Knežević </a></li>
+        <li><a href="https://www.github.com/Mikros1999" target="_blank"> Miroslav Maksimović </a></li>
+        <li><a href="https://www.github.com/crknuchu" target="_blank"> Mihailo Bogdanović </a></li>
+        <li><a href="https://www.github.com/TatjanaKnezevic" target="_blank"> Tatjana Knežević </a></li>
     </ul>
     <br>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-<!-- put in list when you finish it
-<li> <a href="www.github.com/VampireCrab-Games" target="_blank"> Sudoku Scanner/Solver Library </a> (C++, OpenCV) - Open-Source C++ Library 
-            <ul> for scanning and laoding sudoku grid from picture or camera, and solving given sudoku grid. It returns scanned grid values or solved grid values to athe app that makes use of it. </ul>
-        </li>
-        <br>
-        <li> <a href="www.github.com/VampireCrab-Games" target="_blank"> Sudoku Scanner/Solver Game </a> (Unreal Engine 5 / C++) - Unique sudoku game for mobile platforms
-            <ul> Mobile game that, appart from basic sudoku game functionalities, has scanning and loading feature of sudoku grid through picture or camera, as well as solving any sudoku grid feature </ul>
-        </li>
-        <br> 
--->
