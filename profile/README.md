@@ -20,7 +20,7 @@
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
         <br>
-        <li> <a href="" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - 2D grid-based horror dungeon crawler, for mobile platforms
+        <li> <a href="https://github.com/VampireCrab-Games/Not-Alone-In-The-Dark" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - 2D grid-based horror dungeon crawler, for mobile platforms
             <ul> Adventurer descends deep into dark and dangerous dungeons, searching for adventure, treasure and glory! </ul>
         </li>
         <br>
