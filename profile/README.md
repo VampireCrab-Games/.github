@@ -16,7 +16,7 @@
     </ul> -->
     <p> Work In Progress </p>
     <ul>
-        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
+        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood/tree/develop" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
         <br>
