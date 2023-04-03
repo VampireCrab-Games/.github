@@ -16,6 +16,10 @@
     </ul> -->
     <p> Work In Progress </p>
     <ul>
+        <li> <a href="https://github.com/VampireCrab-Games/Tetris-Clone" target="_blank"> Definately Not Just a Tetris Clone </a> (Unity / C#) - 2D puzzle game
+            <ul> Geometric shapes, called Tetromino, fall from the upper edge of the screen and you need to stack them in a line in order to break that line and get points </ul>
+        </li>
+        <br>
         <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood/tree/develop" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
@@ -38,9 +42,10 @@
 <div align="left">
     <h2>Meet our members!</h2>
     <ul>
-        <li><a href="https://www.github.com/Mikros1999" target="_blank" rel="noopener noreferrer"> Miroslav Maksimović </a></li>
-        <li><a href="https://www.github.com/crknuchu" target="_blank" rel="noopener noreferrer"> Mihailo Bogdanović </a></li>
+        <li><a href="https://www.github.com/Mikros1999" target="_blank" rel="noopener noreferrer"> Miroslav Maksimović </a> - Game Developer </li>
+        <li><a href="https://www.github.com/crknuchu" target="_blank" rel="noopener noreferrer"> Mihailo Bogdanović  </a> - Game Developer </li>
         <!-- <li><a href="https://www.github.com/TatjanaKnezevic" target="_blank" rel="noopener noreferrer"> Tatjana Knežević </a></li> -->
+        <!-- <li><a href="https://www.github.com/mi18140" target="_blank" rel="noopener noreferrer"> Aleksandar Šarbajić </a></li> -->
     </ul>
     <br>
 </div>
