@@ -7,19 +7,8 @@
 </div>
 <div>
     <h2>Check out our projects!</h2>
-<!--     <p> Released </p>
-    <ul>
-        <li> <a href="" target="_blank">  </a>
-            <ul>  </ul>
-        </li>
-        <br>
-    </ul> -->
     <p> Work In Progress </p>
-    <ul>
-        <li> <a href="https://github.com/VampireCrab-Games/Tetris-Clone" target="_blank"> Definately Not Just a Tetris Clone </a> (Unity / C#) - 2D puzzle game
-            <ul> Geometric shapes, called Tetromino, fall from the upper edge of the screen and you need to stack them in a line in order to break that line and get points </ul>
-        </li>
-        <br>
+     <ul>
         <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood/tree/develop" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
             <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
@@ -30,8 +19,12 @@
         </li>
         <br>
     </ul>
-    <p> Backlog </p>
+    <p> MVP Done</p>
     <ul>
+        <li> <a href="https://github.com/VampireCrab-Games/Tetris-Clone" target="_blank"> Definately Not Just a Tetris Clone </a> (Unity / C#) - 2D puzzle game
+            <ul> Geometric shapes, called Tetromino, fall from the upper edge of the screen and you need to stack them in a line in order to break that line and get points </ul>
+        </li>
+        <br>
         <li> <a href="https://github.com/VampireCrab-Games/Chess-2D" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
             <ul> MVP done, needs improvement and new featueres</ul>
         </li>
