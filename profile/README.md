@@ -9,11 +9,7 @@
     <h2>Check out our projects!</h2>
     <p> Work In Progress </p>
      <ul>
-        <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood/tree/develop" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
-            <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
-        </li>
-        <br>
-        <li> <a href="https://github.com/VampireCrab-Competitions/EESTech-Hakaton-2023" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - 2D grid-based horror dungeon crawler, for mobile platforms. 
+        <li> <a href="https://github.com/VampireCrab-Games/Not-Alone-In-The-Dark" target="_blank"> (Not) Alone In The Dark </a> (Unity / C#) - 2D grid-based horror dungeon crawler, for mobile platforms. 
             <ul> Adventurer descends deep into dark and dangerous dungeons, searching for adventure, treasure and glory! </ul>
             <ul> Initially made for EESTech Challenge (GameJam/Hackathon), but continuing development </ul>
         </li>
@@ -27,6 +23,13 @@
         <br>
         <li> <a href="https://github.com/VampireCrab-Games/Chess-2D" target="_blank"> Chess 2D </a> (Unity / C#) - 2D chess game, for mobile platforms
             <ul> MVP done, needs improvement and new featueres</ul>
+        </li>
+        <br>
+    </ul>
+    <p> Backlog </p>
+    <ul>
+    <li> <a href="https://github.com/VampireCrab-Games/Raining-Blood/tree/develop" target="_blank"> Raining Blood </a> (Unity / C#) - 2D platformer, for desktop platforms
+            <ul> Crab embarks on a journey to save it's friends, gaining vampiric powers in the process! </ul>
         </li>
         <br>
     </ul>
